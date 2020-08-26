@@ -1,0 +1,10 @@
+
+.country-info {
+    border: 1px solid lightgray;
+    text-align: center;
+    padding: 10px;
+}
+
+.flag img {
+    height: 50px;
+}
